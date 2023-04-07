@@ -16,4 +16,4 @@
 
 <p>Update Loading</p>
 
-<p>![18%](https://progress-bar.dev/18)</p>
+![18%](https://progress-bar.dev/18)
