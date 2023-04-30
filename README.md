@@ -20,5 +20,5 @@
 
 <h3> Projelerim </h3>
 
-<a href="https://second-project-ismetuz.netlify.app/"> Medium Colone Web Sitemi bu Linkten İnceleyebilirsiniz <a/>
-<a href="https://fiverr-clone-projects.netlify.app/"> Fiverr Colone Web Sitemi bu Linkten İnceleyebilirsiniz <a/>
+<p> <a href="https://second-project-ismetuz.netlify.app/"> Medium Colone Web Sitemi bu Linkten İnceleyebilirsiniz <a/> </p>
+<p> <a href="https://fiverr-clone-projects.netlify.app/"> Fiverr Colone Web Sitemi bu Linkten İnceleyebilirsiniz <a/> </p>
