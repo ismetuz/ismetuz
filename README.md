@@ -16,4 +16,6 @@
 
 <p>Django Framework Update Loading</p>
 
-![18%](https://progress-bar.dev/18)
+![30%](https://progress-bar.dev/18)
+
+<a href="https://app.netlify.com/sites/second-project-ismetuz/overview"> Medium Colone Web Sitemi bu Linkten İnceleyebilirsiniz <a/>
