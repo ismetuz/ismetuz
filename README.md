@@ -18,4 +18,4 @@
 
 ![30%](https://progress-bar.dev/18)
 
-<a href="https://app.netlify.com/sites/second-project-ismetuz/overview"> Medium Colone Web Sitemi bu Linkten İnceleyebilirsiniz <a/>
+<a href="https://second-project-ismetuz.netlify.app/"> Medium Colone Web Sitemi bu Linkten İnceleyebilirsiniz <a/>
