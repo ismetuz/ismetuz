@@ -16,7 +16,7 @@
 
 <p>Django Framework Update Loading</p>
 
-![30%](https://progress-bar.dev/18)
+![48%](https://progress-bar.dev/48)
 
 <h3> Projelerim </h3>
 
